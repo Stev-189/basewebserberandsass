@@ -1,0 +1,7 @@
+npm init -y 
+sudo npm install -g sass
+npm i express express-handlebars morgan
+npm i @babel/core @babel/cli @babel/node @babel/preset-env @babel/plugin-transform-runtime nodemon -D
+npm install --save @babel/core @babel/cli @babel/polyfill
+
+.babelsrc
